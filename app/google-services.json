@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830643299898",
+    "firebase_url": "https://busguideapplication.firebaseio.com",
+    "project_id": "busguideapplication",
+    "storage_bucket": "busguideapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830643299898:android:77c21eb16ee483ff",
+        "android_client_info": {
+          "package_name": "com.example.busguideapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830643299898-bct7d1p1d2obvso24ko9vs27gufbi9t4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.busguideapplication",
+            "certificate_hash": "3d350c397014c2bddeab87dda6609d9fef0dde19"
+          }
+        },
+        {
+          "client_id": "830643299898-rnf1dh8didaiaprpl5gifd6qef2gttn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzPK4D2vtYb6fWAGig8f2pm3jMkCRSrmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830643299898-rnf1dh8didaiaprpl5gifd6qef2gttn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

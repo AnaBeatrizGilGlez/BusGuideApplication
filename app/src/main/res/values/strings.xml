@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bus Guide Application</string>
+    <string name="fundir"> Su bluetooth no es compatible</string>
+    <string name="aceptar"> Aceptar</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="buscar">buscar</string>
+    <string name="j">Device found =</string>
+</resources>
